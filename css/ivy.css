@@ -1,0 +1,26 @@
+
+
+h1,h2,h3,h4,h4,h6{
+	font-family: 'Anonymous Pro', monospace;
+
+}
+
+body{
+	font-family: 'Poppins', sans-serif;
+}
+p{
+	color: #3E3E3E;
+}
+
+
+.cta{
+	color: #A2973B;
+	text-decoration: underline;
+	margin-bottom: 1em;
+}
+
+/*STYLES FOR ABOUT SECTION*/
+.about__title{
+	line-height: 1.4em;
+}
+/*END ABOUT SECTION*/
